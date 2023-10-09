@@ -19,24 +19,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>template</title>
-    <url>/uncategorized/template/</url>
-    <content><![CDATA[<h1 id="CPU的视角看待编程"><a href="#CPU的视角看待编程" class="headerlink" title="CPU的视角看待编程"></a>CPU的视角看待编程</h1><h2 id="1-代码块"><a href="#1-代码块" class="headerlink" title="1.代码块"></a>1.代码块</h2><figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;iostream&gt;</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> std;</span><br><span class="line"><span class="function"><span class="type">int</span> <span class="title">main</span><span class="params">()</span></span>&#123;</span><br><span class="line">    cout &lt;&lt; <span class="string">&quot;hello&quot;</span>&lt;&lt; endl;</span><br><span class="line">    <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
-<h2 id="2-图片"><a href="#2-图片" class="headerlink" title="2.图片"></a>2.图片</h2><p><img src="C:\Users\xuan\AppData\Roaming\Typora\typora-user-images\image-20230325104552715.png" alt="image-20230325104552715"></p>
-<h2 id="3-字体"><a href="#3-字体" class="headerlink" title="3.字体"></a>3.字体</h2><p><strong>等不到天黑</strong></p>
-<p>​    <del>被删除的文字</del><br>​    <em>斜体</em></p>
-<!--*** --- 分割符-->
-
-<hr>
-<hr>
-<p><a href="https://www.baidu.com/">哈尔二零</a></p>
-]]></content>
-      <tags>
-        <tag>cpu</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>hello</title>
     <url>/uncategorized/hello/</url>
     <content><![CDATA[<h1 id="欢迎使用-Cmd-Markdown-编辑阅读器"><a href="#欢迎使用-Cmd-Markdown-编辑阅读器" class="headerlink" title="欢迎使用 Cmd Markdown 编辑阅读器"></a>欢迎使用 Cmd Markdown 编辑阅读器</h1><hr>
@@ -126,5 +108,23 @@
 <p>[^LaTeX]: 支持 <strong>LaTeX</strong> 编辑显示支持，例如：$\sum_{i&#x3D;1}^n a_i&#x3D;0$， 访问 <a href="http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference">MathJax</a> 参考更多使用方法。</p>
 <p>[^code]: 代码高亮功能支持包括 Java, Python, JavaScript 在内的，<strong>四十一</strong>种主流编程语言。</p>
 ]]></content>
+  </entry>
+  <entry>
+    <title>template</title>
+    <url>/uncategorized/template/</url>
+    <content><![CDATA[<h1 id="CPU的视角看待编程"><a href="#CPU的视角看待编程" class="headerlink" title="CPU的视角看待编程"></a>CPU的视角看待编程</h1><h2 id="1-代码块"><a href="#1-代码块" class="headerlink" title="1.代码块"></a>1.代码块</h2><figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;iostream&gt;</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> std;</span><br><span class="line"><span class="function"><span class="type">int</span> <span class="title">main</span><span class="params">()</span></span>&#123;</span><br><span class="line">    cout &lt;&lt; <span class="string">&quot;hello&quot;</span>&lt;&lt; endl;</span><br><span class="line">    <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<h2 id="2-图片"><a href="#2-图片" class="headerlink" title="2.图片"></a>2.图片</h2><p><img src="C:\Users\xuan\AppData\Roaming\Typora\typora-user-images\image-20230325104552715.png" alt="image-20230325104552715"></p>
+<h2 id="3-字体"><a href="#3-字体" class="headerlink" title="3.字体"></a>3.字体</h2><p><strong>等不到天黑</strong></p>
+<p>​    <del>被删除的文字</del><br>​    <em>斜体</em></p>
+<!--*** --- 分割符-->
+
+<hr>
+<hr>
+<p><a href="https://www.baidu.com/">哈尔二零</a></p>
+]]></content>
+      <tags>
+        <tag>cpu</tag>
+      </tags>
   </entry>
 </search>
